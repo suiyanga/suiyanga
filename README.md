@@ -21,7 +21,7 @@
 
 ---
 
-👨‍💻 **About ME**:
+👨‍💻 **About Me**:
 
 - 💡 I'm a recent graduate from KCA University with a BSc. Information Security and Forensics with expertise in Software Development & ICT Support.  
 - 💻 I'm skilled in React, Next.js, TypeScript, Python and Laravel.
