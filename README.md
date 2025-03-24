@@ -15,7 +15,7 @@
 </div>
 
 
-<p align="center">🔹  Information Security Engineer| Full-Stack Developer | IT Support  </p>
+<p align="center">🔹  Information Security Engineer | Full-Stack Developer | IT Support  </p>
 
 <p align="center">👋 Hi there, I'm Augustine Suiyanga </p>
 
