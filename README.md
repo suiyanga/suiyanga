@@ -51,10 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Scripting"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="Kali Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/OWASP_logo.svg" height="40" alt="OWASP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenSSL_logo.png" height="40" alt="OpenSSL"/>
-
+  <img src="https://owasp.org/assets/images/logo.svg" height="40" alt="OWASP"/>
   
 </p>
 
