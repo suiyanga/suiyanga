@@ -15,7 +15,7 @@
 </div>
 
 
-<p align="center">🔹  Full-Stack Developer | IT Support | Graphic Designer </p>
+<p align="center">🔹  Information Security Engineer| Full-Stack Developer | IT Support  </p>
 
 <p align="center">👋 Hi there, I'm Augustine Suiyanga </p>
 
@@ -24,9 +24,9 @@
 👨‍💻 **About Me**:
 
 - 💡 I'm a recent graduate from KCA University with a BSc. Information Security and Forensics with expertise in Software Development & ICT Support.  
-- 💻 I'm skilled in React, Next.js, TypeScript, Python and Laravel.
-- 🎯 I'm passionate about building secure applications & enhancing user experiences.  
-- 🌱 I'm currently learning AWS, Rust, Figma and AI Engineering.  
+- 💻 I'm skilled in Threat & Vulnerability management, SOC operations, GRC, React, Next.js, TypeScript, Python and Laravel.
+- 🎯 I'm passionate about ensuring system security, building secure applications & enhancing user experiences.  
+- 🌱 I'm currently learning AWS, CCNA, Rust and AI Engineering.  
 - 📍 Based in *Nairobi, Kenya*
   
 📫 **Contact:** [📧 augustkinya@gmail.com](mailto:augustkinya@gmail.com)  
