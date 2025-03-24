@@ -51,9 +51,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Scripting"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="Kali Linux"/>
-  <img src="https://www.svgrepo.com/show/331578/metasploit.svg" height="40" alt="Metasploit"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wireshark_icon.svg" height="40" alt="Wireshark"/>
-  <img src="https://www.svgrepo.com/show/306037/nmap.svg" height="40" alt="Nmap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/OWASP_logo.svg" height="40" alt="OWASP"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/OpenSSL_logo.png" height="40" alt="OpenSSL"/>
 
   
 </p>
