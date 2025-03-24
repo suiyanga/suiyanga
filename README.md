@@ -61,7 +61,7 @@
 
 📌 **Connect With Me**
 
-I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email at augustkinya@gmail.com. Happy Coding! 🚀
+I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email at augustkinya@gmail.com. Happy Hacking! 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/suiyanga)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&logo=hexo&logoColor=white)](https://my-portfolio-vert-three-42.vercel.app/)
