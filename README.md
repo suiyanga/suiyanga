@@ -50,6 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Scripting"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="Kali Linux"/>
+  <img src="https://www.svgrepo.com/show/331578/metasploit.svg" height="40" alt="Metasploit"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wireshark_icon.svg" height="40" alt="Wireshark"/>
+  <img src="https://www.svgrepo.com/show/306037/nmap.svg" height="40" alt="Nmap"/>
+
   
 </p>
 
